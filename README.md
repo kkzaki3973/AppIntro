@@ -556,6 +556,10 @@ AppIntro is not relying on any third party library other than those from Android
     limitations under the License.
 ```
 
+## BrowserStack
+
+This project is tested with BrowserStack
+
 ## Apps using AppIntro 📱
 
 If you are using AppIntro in your app and would like to be listed here, please open a pull request and we will be more than happy to include you:
